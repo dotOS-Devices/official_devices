@@ -1,4 +1,13 @@
-[  
+[
+   {  
+      "name":"Zenfone Max Pro M1",
+      "brand":"Asus",
+      "codename":"X00TD",
+      "sf_dir":"https://sourceforge.net/projects/dotos-2-x/X00TD",
+      "maintainer_name":"Pavan Nayak",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7026762",
+      "xda_thread":"https://forum.xda-developers.com/asus-zenfone-max-pro-m1/development/dotos-o-v2-4-x00td-unofficial-t3820792"
+   },  
    {  
       "name":"Lenovo P2",
       "brand":"Lenovo",
@@ -45,22 +54,13 @@
       "xda_thread":"https://forum.xda-developers.com/moto-g4-plus/development/rom-dot-os-2-xx-t3782354"
    },
    {  
-      "name":"Moto G5",
-      "brand":"Motorola",
-      "codename":"cedric",
-      "sf_dir":"https://sourceforge.net/projects/dotos-2-x/cedric",
-      "maintainer_name":"Bar0ns600",
-      "maintainer_url":"https://forum.xda-developers.com/member.php?u=8341469",
-      "xda_thread":"https://forum.xda-developers.com/g5/development/rom-dotos-2-x-t3788361"
-   },
-   {  
       "name":"Moto G5 Plus",
       "brand":"Motorola",
       "codename":"potter",
       "sf_dir":"https://sourceforge.net/projects/dotos-2-x/potter",
-      "maintainer_name":"Anshuman Mishra",
-      "maintainer_url":"https://telegram.me/anshuman852",
-      "xda_thread":"https://forum.xda-developers.com/g5-plus/development/rom-dotos-2-1-t3766455"
+      "maintainer_name":"Yugesh",
+      "maintainer_url":"https://telegram.me/Manoffun",
+      "xda_thread":"https://forum.xda-developers.com/g5-plus/development/rom-dotos-moto-g5-plus-t3835762"
    },
    {  
       "name":"Moto G5S Plus",
@@ -70,15 +70,6 @@
       "maintainer_name":"Raj Jadeja (raj_jdja)",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=5614198",
       "xda_thread":"https://forum.xda-developers.com/moto-g5s-plus/development/rom-dotos-t3770358"
-   },
-   {  
-      "name":"Z9 Max",
-      "brand":"Nubia",
-      "codename":"nx512j",
-      "sf_dir":"https://sourceforge.net/projects/dotos-2-x/nx512j",
-      "maintainer_name":"Bauuuuu",
-      "maintainer_url":"http://4pda.ru/forum/index.php?showuser=5013849",
-      "xda_thread":"http://4pda.ru/forum/index.php?showtopic=778434&st=50000"
    },
    {  
       "name":"Z9 mini",
@@ -99,15 +90,6 @@
       "xda_thread":"https://forum.xda-developers.com/oneplus-2/development/rom-dotos-v2-2-t3798079"
    },
    {  
-      "name":"OnePlus 3/3T",
-      "brand":"OnePlus",
-      "codename":"oneplus3",
-      "sf_dir":"https://sourceforge.net/projects/dotos-2-x/files/oneplus3",
-      "maintainer_name":"Dhanush Krishnan (ded_boi)",
-      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7107153",
-      "xda_thread":"https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/7-1-2-dot-os-1-1-t3713351"
-   },
-   {  
       "name":"Galaxy J7 Prime",
       "brand":"Samsung",
       "codename":"on7xelte",
@@ -115,15 +97,6 @@
       "maintainer_name":"Siddhant Naik (darklord1731)",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=8535890",
       "xda_thread":"https://forum.xda-developers.com/galaxy-j7/samsung-galaxy-j7-prime--j7-on-nxt-exynos7870/rom-dotos-v2-1-j7-prime-nxt-t3774100"
-   },
-   {  
-      "name":"Galaxy J7 (2016)",
-      "brand":"Samsung",
-      "codename":"j7xelte",
-      "sf_dir":"https://sourceforge.net/projects/dotos-2-x/j7xelte",
-      "maintainer_name":"Abhay Ruparel (redking12)",
-      "maintainer_url":"https://forum.xda-developers.com/member.php?u=7957595",
-      "xda_thread":"https://forum.xda-developers.com/galaxy-j7/samsung-galaxy-j7-2016-exynos-7870-guides-development-and-mods/stable-dotos-j7-16-t3784265"
    },
    {  
       "name":"Galaxy S5 (klte)",
@@ -167,7 +140,7 @@
       "codename":"land",
       "sf_dir":"https://sourceforge.net/projects/dotos-2-x/land",
       "maintainer_name":"Sipun Ku Mahanta (Darkstar085)",
-      "maintainer_url":"https://forum.xda-developers.com/member.php?u=6698785",
+      "maintainer_url":"https://t.me/Darkstar085",
       "xda_thread":"https://forum.xda-developers.com/xiaomi-redmi-3s/development/rom-dot-os-2-1-xiaomi-redmi-3s-t3779721"
    },
    {
@@ -187,6 +160,15 @@
       "maintainer_name":"Mohan Cm (mohancm)",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=7471004",
       "xda_thread":"https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-dotos-2-1-t3765730"
+   },
+   {  
+      "name":"Redmi Note 5 Pro",
+      "brand":"Xiaomi",
+      "codename":"whyred",
+      "sf_dir":"https://sourceforge.net/projects/dotos-2-x/whyred",
+      "maintainer_name":"Sipun Ku Mahanta (Darkstar085)",
+      "maintainer_url":"https://t.me/Darkstar085",
+      "xda_thread":"https://forum.xda-developers.com/redmi-note-5-pro/development/rom-dotos-2-4-whyred-03-09-2018-t3837793"
    },
    {  
       "name":"Redmi 4/4X",
@@ -260,7 +242,7 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=7312263",
       "xda_thread":"https://forum.xda-developers.com/redmi-note-3/development/rom-dotos-2-3-1-t3806040"
    },
-  {  
+   {  
       "name":"Leeco Le pro 3",
       "brand":"Leeco",
       "codename":"zl1",
@@ -268,6 +250,15 @@
       "maintainer_name":"Jakub Frelik (Quavosh)",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=8110390",
       "xda_thread":"https://forum.xda-developers.com/le-pro3/development/rom-dotos-2-3-1-t3809068"
+   },
+  {  
+      "name":"Vega Iron 2",
+      "brand":"Pantech",
+      "codename":"ef63",
+      "sf_dir":"https://sourceforge.net/projects/dotos-2-x/files/ef63",
+      "maintainer_name":"chautruongthinh",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=4894994",
+      "xda_thread":"https://forum.xda-developers.com/android/development/rom-dotos-android-distribution-vega-t3824001"
    },
    {
       "name":"Lenovo Vibe K5/K5+",
@@ -277,5 +268,59 @@
       "maintainer_name":"Chaitanaya Mittal(@Professional_Guider)",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=8726134",
       "xda_thread":"https://forum.xda-developers.com/k5-plus/development/rom-dot-os-2-3-1-t3808122"
+   },
+   {
+      "name":"Galaxy Note 3 LTE (hlte)",
+      "brand":"Samsung",
+      "codename":"HLTE",
+      "sf_dir":"",
+      "maintainer_name":"Joshua Primero (jprimero15)",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=6561802",
+      "xda_thread":"https://forum.xda-developers.com/galaxy-note-3/development/rom-dotos-2-4-t3826334"
+   },
+   {
+      "name":"Galaxy Note 3 LTE (hltechn)",
+      "brand":"Samsung",
+      "codename":"HLTECHN",
+      "sf_dir":"",
+      "maintainer_name":"Joshua Primero (jprimero15)",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=6561802",
+      "xda_thread":"https://forum.xda-developers.com/galaxy-note-3/development/rom-dotos-2-4-t3826334"
+   },
+    {
+      "name":"Galaxy Note 3 LTE (hltetmo)",
+      "brand":"Samsung",
+      "codename":"HLTE",
+      "sf_dir":"",
+      "maintainer_name":"Joshua Primero (jprimero15)",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=6561802",
+      "xda_thread":"https://forum.xda-developers.com/galaxy-note-3/development/rom-dotos-2-4-t3826334"
+   },
+   {
+      "name":"Moto G",
+      "brand":"Motorola",
+      "codename":"falcon",
+      "sf_dir":"https://sourceforge.net/projects/dotos-2-x/falcon",
+      "maintainer_name":"Rahul (@rahul1892)",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=6578440",
+      "xda_thread":"https://forum.xda-developers.com/moto-g/development/rom-dotos-2-3-1-t3817084"
+   },
+   {
+      "name":"Moto G 2014",
+      "brand":"Motorola",
+      "codename":"titan",
+      "sf_dir":"https://sourceforge.net/projects/dotos-2-x/titan",
+      "maintainer_name":"Rahul (@rahul1892)",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=6578440",
+      "xda_thread":"https://forum.xda-developers.com/moto-g-2014/development/rom-dotos-2-3-1-t3822409"
+   },
+   {
+      "name":"Samsung A5 2016",
+      "brand":"Samsung",
+      "codename":"a5xelte",
+      "sf_dir":"",
+      "maintainer_name":"Himanshu Singhal(bunnyy)",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=8946392",
+      "xda_thread":"https://forum.xda-developers.com/samsung-a-series/development/rom-dotos-v2-2-samsung-a5-2016-t3801074"
    }
 ]
